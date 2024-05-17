@@ -2,7 +2,7 @@
 
 I'm Sajeeva. I'm currently working as a Site Reliability Engineer. 
 
-<details><summary><a href="https://Example.com">🌱 My Certifications ...</a></summary>
+<details><summary>🌱 My Certifications ...</a></summary>
 
 
 2024   KCSA: Kubernetes and Cloud Native Security Associate
