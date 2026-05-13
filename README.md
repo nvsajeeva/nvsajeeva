@@ -20,7 +20,7 @@ I am a passionate technologist dedicated to mastering the cloud-native ecosystem
 | **2025** | **Golden Kubestronaut** 🏆 | CNCF |
 | **2025** | **CNPA:** Certified Cloud Native Platform Engineering Associate | CNCF |
 | **2025** | **KCA:** Kyverno Certified Associate | CNCF |
-| **2025** | Generative AI Leader Certification | Various |
+| **2025** | Generative AI Leader Certification | Google |
 | **2024** | **Kubestronaut** 👩‍🚀 | CNCF |
 | **2024** | **CKS:** Certified Kubernetes Security Specialist | CNCF |
 | **2024** | **KCSA:** Kubernetes and Cloud Native Security Associate | CNCF |
