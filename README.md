@@ -1,3 +1,10 @@
+
+<a href="https://dev.certdirectory.io/profile/sajeeva?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://dev.certdirectory.io/badge/sajeeva.svg?style=card&theme=dark">
+    <img alt="Sajeeva Nambadawa Vithanage on CertDirectory" src="https://dev.certdirectory.io/badge/sajeeva.svg?style=card">
+  </picture>
+</a>
 ### Hi there 👋 I'm Sajeeva 
 
 **Site Reliability Engineer | Cloud Architect | Platform Engineer**
