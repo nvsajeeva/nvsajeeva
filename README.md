@@ -1,8 +1,8 @@
 
-<a href="https://dev.certdirectory.io/profile/sajeeva-l?utm_source=github&utm_medium=readme">
+<a href="https://dev.certdirectory.io/profile/sajeeva-lakmal-2?utm_source=github&utm_medium=readme">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://dev.certdirectory.io/badge/sajeeva-l.svg?style=card&theme=dark">
-    <img alt="Sajeeva Nambadawa Vithanage on CertDirectory" src="https://dev.certdirectory.io/badge/sajeeva-l.svg?style=card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://dev.certdirectory.io/badge/sajeeva-lakmal-2.svg?style=card&theme=dark">
+    <img alt="Sajeeva Nambadawa Vithanage on CertDirectory" src="https://dev.certdirectory.io/badge/sajeeva-lakmal-2.svg?style=card">
   </picture>
 </a>
 
